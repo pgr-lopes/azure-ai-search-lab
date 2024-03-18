@@ -135,7 +135,7 @@
             ],
             "sku": {
                 "name": "Standard",
-                "capacity": 50
+                "capacity": 25
             },
             "properties": {
                 "model": {
